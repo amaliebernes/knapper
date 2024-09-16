@@ -1,0 +1,1 @@
+let buttunA = document.getElementById ("butten-a")
