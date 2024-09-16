@@ -1,1 +1,7 @@
-let buttunA = document.getElementById ("butten-a")
+let buttonA = document.getElementById("a");
+
+function handleButtonAClick() {
+    countA = countA + 1;
+  }
+
+  a.addEventListener("click", handleButtonAClick);
